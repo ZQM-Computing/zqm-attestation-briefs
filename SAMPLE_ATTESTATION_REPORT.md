@@ -4,7 +4,7 @@
 **Report ID:** ATTEST-2026-0000-EXAMPLE
 **Generated:** 2026-07-10T00:00:00Z
 **Host:** example-host.corp
-**Signer:** Alex Zelenski, GISP
+**Signer:** ZQM Computing
 **Toolkit:** ZQM Attestation Toolkit v1.0.0
 
 ### Executive Summary
